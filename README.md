@@ -6,7 +6,7 @@
 
 <h2 align="center"> Api for the app to be the hero</h2>
 
-<h3 align="center"> Created with <img src="telas/node-js.svg" alt="react" height="18"> Node </h3>
+<h3 align="center"> Created with <img src="telas/node-js.svg" alt="react" height="50"> Node </h3>
 
 
 ## Telas
